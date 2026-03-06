@@ -3,7 +3,3 @@ two
 three
 four
 five
-sex
-seven
-eight
-nine
