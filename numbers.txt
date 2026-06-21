@@ -1,4 +1,2 @@
-one
-two
-ten
-eleven
+nine
+twelve
